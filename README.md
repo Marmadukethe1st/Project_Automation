@@ -1,0 +1,1 @@
+A Script to automate the creation of a new project on my laptop.
